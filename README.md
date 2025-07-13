@@ -13,21 +13,36 @@
 - [x] Solve 2 easy LeetCode Python problems
 - [x] Optional: Push your script to GitHub
 
-## 🛠️ Portfolio Projects
-
-- ✅ [To-Do List CLI App](https://github.com/mdgreen18/to-do)  
-  *A simple command-line application written in Python that lets users add, view, and manage tasks.*
-
-
 **Notes:**  
 - Focus on understanding variables, loops, functions, and error handling.  
 - Ask for help if stuck—don’t waste more than 30 minutes on a single issue.
 
 ---
 
-## ⏭️ Week 2: July 14–20 – *(To be defined after check-in)*
+## 📅 Week 2 Plan: July 14–20 – _Python Libraries + Project Time_
 
-- [ ] _TBD_
+### 🎯 Goals:
+
+|Topic|Task|
+|---|---|
+|**Python Libraries**|Learn NumPy, Pandas, and matplotlib basics|
+|**Mini Project**|Start a simple data analysis or scraping project|
+|**LeetCode**|Solve 2 more easy Python challenges|
+|**Git Practice**|Commit/push your new code with good messages|
+
+### ✅ Tasks:
+
+-  Work through Kaggle: Python (focus on Pandas/NumPy chapters)
+
+-  Build a new mini project:
+
+  - Suggested: **CSV Budget Tracker** – Read CSV, calculate totals, visualize spending
+
+-  Push your new project to GitHub
+
+-  Link it in your `ai-career-roadmap` repo
+
+-  Solve 2 easy problems on LeetCode
 
 ---
 
@@ -47,7 +62,14 @@
 
 ## 📁 Project Ideas Log (To Build Portfolio)
 
-- [ ] **To-Do List CLI** – *Python* — Simple starter app
+- [x] **To-Do List CLI** – *Python* — Simple starter app
 - [ ] **Web Scraper (e.g., job listings)** – *Python, BeautifulSoup* — Start in Week 2 or 3
 - [ ] **Budget Tracker App** – *Python, Pandas* — Mini project in Week 3–4
 - [ ] **Data Visualization Dashboard** – *Python, matplotlib* — Great for GitHub portfolio
+
+---
+
+## 🛠️ Portfolio Projects
+
+- ✅ [To-Do List CLI App](https://github.com/mdgreen18/to-do)  
+  *A simple Python command-line application to manage tasks. Users can add, view, and list their to-do items in a clean interface.*
