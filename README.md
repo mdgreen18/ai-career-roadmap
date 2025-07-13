@@ -8,10 +8,10 @@
 ## ✅ Week 1: July 7–13 – *Python Practice & Setup*
 
 - [x] Set up your GitHub account (if not already)
-- [ ] Complete 3–4 hours of Python on [freeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-- [ ] Install Python locally and write a basic script (e.g., calculator or to-do CLI)
-- [ ] Solve 2 easy LeetCode Python problems
-- [ ] Optional: Push your script to GitHub
+- [x] Complete 3–4 hours of Python on [freeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+- [x] Install Python locally and write a basic script (e.g., calculator or to-do CLI)
+- [x] Solve 2 easy LeetCode Python problems
+- [x] Optional: Push your script to GitHub
 
 **Notes:**  
 - Focus on understanding variables, loops, functions, and error handling.  
