@@ -13,6 +13,12 @@
 - [x] Solve 2 easy LeetCode Python problems
 - [x] Optional: Push your script to GitHub
 
+## 🛠️ Portfolio Projects
+
+- ✅ [To-Do List CLI App](https://github.com/mdgreen18/to-do)  
+  *A simple command-line application written in Python that lets users add, view, and manage tasks.*
+
+
 **Notes:**  
 - Focus on understanding variables, loops, functions, and error handling.  
 - Ask for help if stuck—don’t waste more than 30 minutes on a single issue.
