@@ -45,12 +45,116 @@
 -  Solve 2 easy problems on LeetCode
 
 ---
+# 🧠 AI Career Coaching – Week 3 Plan (July 21–27)
+
+**Theme:** Intermediate Python + Git Practice with Real Use
+
+---
+
+## ✅ Week 2 Summary (Reflection)
+
+### ✔️ Wins:
+- Web scraper polished and pushed to GitHub
+- Studied consistently
+- Commit history is clear and readable
+- Honest reflections on motivation and workflow
+
+### ❌ Incomplete / To Revisit:
+- Budget Tracker not finished
+- No Git branching or PRs yet
+- Didn't finish Kaggle library modules (NumPy/Pandas/matplotlib)
+- No file handling or exception exercises
+
+---
+
+## 🚧 Primary Goals for Week 3
+
+### 🗂️ Project: **Log Analyzer CLI App**
+**Purpose:** Practice file I/O, error handling, and Git branching with a mini tool
+
+#### 🎯 Features:
+- Read from a `.log` or `.txt` file
+- Return:
+  - Total lines processed
+  - Count of lines with "ERROR"
+  - Most common error message
+- Export summary to a new file (`.txt` or `.json`)
+
+#### 🧪 Skills:
+- `open()`, `.readlines()`, string parsing
+- `try/except` logic
+- CLI formatting
+- Git: Create a `summary-feature` branch and merge with PR
+- Bonus: Add timestamps, export formats
+
+---
+
+## 🧪 Python Practice Challenges (Pick 2–3)
+
+1. **Email Parser**
+   - Read `.txt` of email addresses
+   - Validate format
+   - Save valid and invalid emails to separate files
+
+2. **Config File Checker**
+   - Read a `.json` config file
+   - If a key is missing (e.g., `"timeout"`), add it with a default value
+   - Save the updated config
+
+3. **Simple Exception Decorator**
+   - Write a decorator that catches/logs exceptions of any wrapped function
+
+---
+
+## 📊 Kaggle Modules (1 every 2 days)
+- [ ] **NumPy** – Monday
+- [ ] **Pandas** – Wednesday
+- [ ] **Matplotlib** – Friday  
+👉 *[Kaggle Python Course](https://www.kaggle.com/learn/python)*
+
+---
+
+## 🧰 Git Practice
+- Create `summary-feature` branch
+- Commit 2–3 times
+- Open a pull request and merge it into `main`
+- Optional: Try reviewing your own PR for practice
+
+---
+
+## 🧠 Learning Habits
+- Create a “📓 What I Learned” journal in this vault
+- Each night, write 1–2 bullets of:
+  - 🛠 What I built/practiced
+  - 🧠 What I learned or struggled with
+
+---
+
+## ✅ Weekly Checklist
+
+| Task | Status |
+|------|--------|
+| Create Log Analyzer CLI project | ☐ |
+| Use Git branch + PR workflow | ☐ |
+| Complete Kaggle: NumPy, Pandas, matplotlib | ☐ |
+| Complete 2–3 Python file/exception challenges | ☐ |
+| Write nightly “What I Learned” notes | ☐ |
+| Weekly check-in (Sat/Sun) | ☐ |
+
+---
+
+## 📌 Notes
+- ✅ Prefer HackerRank over LeetCode
+- ⚠️ Watch out for `.gitignore` issues on Windows – commit from outside venv
+- ⏳ Budget Tracker can be continued later if needed
+
+---
 
 ## 📅 Weekly Check-Ins (Sunday Nights)
 
 - [x] July 13 – 1st review – Python foundations
-- [ ] July 20 – TBD
-- [ ] July 27 – TBD
+- [x] July 20 – Week 2 review – Python libraries + data project
+- [ ] July 27 – Week 3 review – File handling, error catching, Git branching + log analyzer 
 - [ ] Aug 3 – TBD
 - [ ] Aug 10 – Midpoint progress
 - [ ] Aug 17 – TBD
