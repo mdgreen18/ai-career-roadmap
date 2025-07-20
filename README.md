@@ -132,14 +132,12 @@
 
 ## ✅ Weekly Checklist
 
-| Task | Status |
-|------|--------|
-| Create Log Analyzer CLI project | ☐ |
-| Use Git branch + PR workflow | ☐ |
-| Complete Kaggle: NumPy, Pandas, matplotlib | ☐ |
-| Complete 2–3 Python file/exception challenges | ☐ |
-| Write nightly “What I Learned” notes | ☐ |
-| Weekly check-in (Sat/Sun) | ☐ |
+- [ ] Create Log Analyzer CLI project
+- [ ] Use Git branch + PR workflow
+- [ ] Complete Kaggle: NumPy, Pandas, matplotlib
+- [ ] Complete 2–3 Python file/exception challenges
+- [ ] Write nightly “What I Learned” notes
+- [ ] Weekly check-in (Sat/Sun)
 
 ---
 
