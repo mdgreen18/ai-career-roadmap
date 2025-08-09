@@ -107,7 +107,7 @@
 ---
 
 ## 📊 Kaggle Modules (1 every 2 days)
-- [ ] **NumPy** – Monday
+- [x] **NumPy** – Monday
 - [ ] **Pandas** – Wednesday
 - [ ] **Matplotlib** – Friday  
 👉 *[Kaggle Python Course](https://www.kaggle.com/learn/python)*
@@ -135,9 +135,65 @@
 - [ ] Create Log Analyzer CLI project
 - [ ] Use Git branch + PR workflow
 - [ ] Complete Kaggle: NumPy, Pandas, matplotlib
-- [ ] Complete 2–3 Python file/exception challenges
+- [x] Complete 2–3 Python file/exception challenges
 - [ ] Write nightly “What I Learned” notes
 - [ ] Weekly check-in (Sat/Sun)
+
+---
+## 🔄 Week 3 "Reboot" Plan (Aug 10–16)
+
+Shrinking the scope to get moving again while still hitting the key skills.
+
+### 🎯 1. Finish **Log Analyzer CLI App** (Main Project)
+
+- **Day 1–2**:
+    - Create repo folder & set up `.gitignore` before coding.
+    - Implement reading `.log` / `.txt` file & counting total lines.
+        
+- **Day 3**:
+    - Add `"ERROR"` counting & most common error.
+    - Export summary to `.txt` or `.json`.
+    
+- **Day 4**:
+    - Create a `summary-feature` branch, make 2–3 commits, open PR, and merge.
+        
+
+---
+
+### 🧪 2. Python Challenge — _Simple Exception Decorator_
+
+- **Goal**: Write a decorator that catches/logs exceptions for any wrapped function.
+- Keep it short — 15–30 mins is fine.
+- Example add-on: Have it write errors to a `errors.log` file.
+    
+
+---
+
+### 📊 3. Kaggle Catch-Up
+
+- **Aug 12** – Pandas module
+- **Aug 14** – Matplotlib module
+    
+
+---
+
+### 📓 4. Learning Journal Restart
+
+- 1 bullet for “What I built” + 1 bullet for “What I learned” each night.
+- Even if you do only 10 minutes of coding, log it.
+    
+
+---
+
+## ✅ End-of-Week Deliverables
+
+By Sunday night (Aug 16):
+
+- Working Log Analyzer CLI app pushed to GitHub
+- One branch → PR → merge workflow completed
+- Pandas + Matplotlib modules finished
+- Exception decorator challenge complete
+- 5 journal entries
 
 ---
 
@@ -150,15 +206,13 @@
 
 ## 📅 Weekly Check-Ins (Sunday Nights)
 
-- [x] July 13 – 1st review – Python foundations
-- [x] July 20 – Week 2 review – Python libraries + data project
-- [ ] July 27 – Week 3 review – File handling, error catching, Git branching + log analyzer 
-- [ ] Aug 3 – TBD
-- [ ] Aug 10 – Midpoint progress
-- [ ] Aug 17 – TBD
-- [ ] Aug 24 – TBD
-- [ ] Aug 31 – Final prep begins
-- [ ] Sept 7 – Interview drills & polish
+- [x] **July 14** – ✅ Week 1 review – Python foundations + GitHub setup
+- [x] **July 21** – Week 2 review – Python libraries + data project
+- [ ] **Aug 17** – Week 3 review – Week 3 reboot – File handling, error catching, Git branching + log analyzer
+- [ ] **Aug 24** – Midpoint progress review
+- [ ] **Aug 31** – Advanced Python & data handling
+- [ ] **Sept 7** – Interview drills & portfolio polish
+- [ ] **Sept 14** – Final readiness check
 
 ---
 
