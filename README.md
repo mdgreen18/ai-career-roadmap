@@ -208,8 +208,10 @@ Let’s call this one **“Polish + Data Skills Catch-Up”** since you got the 
 - End of week: Do 1 mini exercise (like plotting error counts from your Log Analyzer) with Pandas/Matplotlib.
 
 #### 🧪 2. Mini Challenge
-- Add a **command-line flag** to your Log Analyzer (e.g. `--export=json` vs `--export=txt`).
-- Keeps the project alive but light-touch.
+- **Add a “top N errors” feature** to your Log Analyzer.
+- Example: `--top 5` → export the 5 most common errors.
+- Default: show all error types if not specified.
+- Output works for both TXT and JSON export.
     
 
 #### 📓 3. Learning Journal (Restart Lite)
