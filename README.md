@@ -197,6 +197,34 @@ By Sunday night (Aug 16):
 
 ---
 
+### 📆 Week 4 (Aug 19–25) Suggested Plan
+
+Let’s call this one **“Polish + Data Skills Catch-Up”** since you got the project foundation down.
+
+#### 🎯 1. Kaggle Catch-Up
+
+- **Day 1–2:** Finish Pandas module
+- **Day 3–4:** Finish Matplotlib module
+- End of week: Do 1 mini exercise (like plotting error counts from your Log Analyzer) with Pandas/Matplotlib.
+
+#### 🧪 2. Mini Challenge
+- Add a **command-line flag** to your Log Analyzer (e.g. `--export=json` vs `--export=txt`).
+- Keeps the project alive but light-touch.
+    
+
+#### 📓 3. Learning Journal (Restart Lite)
+- Instead of nightly, do **3 entries this week** (Mon/Wed/Fri).
+- Format:
+    - 🛠️ What I built/practiced
+    - 📚 What I learned
+#### ✅ End-of-Week Deliverables (Aug 25)
+
+- Pandas + Matplotlib modules completed
+- Log Analyzer supports `--export` option
+- 3 journal entries
+
+---
+
 ## 📌 Notes
 - ✅ Prefer HackerRank over LeetCode
 - ⚠️ Watch out for `.gitignore` issues on Windows – commit from outside venv
@@ -208,8 +236,8 @@ By Sunday night (Aug 16):
 
 - [x] **July 14** – ✅ Week 1 review – Python foundations + GitHub setup
 - [x] **July 21** – Week 2 review – Python libraries + data project
-- [ ] **Aug 17** – Week 3 review – Week 3 reboot – File handling, error catching, Git branching + log analyzer
-- [ ] **Aug 24** – Midpoint progress review
+- [x] **Aug 17** – Week 3 review – Week 3 reboot – File handling, error catching, Git branching + log analyzer
+- [ ] **Aug 24** – Midpoint progress review – Kaggle catch-up (Pandas + Matplotlib), log analyzer CLI flag feature, learning journal restart
 - [ ] **Aug 31** – Advanced Python & data handling
 - [ ] **Sept 7** – Interview drills & portfolio polish
 - [ ] **Sept 14** – Final readiness check
