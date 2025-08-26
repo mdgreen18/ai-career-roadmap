@@ -227,6 +227,65 @@ Let’s call this one **“Polish + Data Skills Catch-Up”** since you got the 
 
 ---
 
+# 📆 Week 5 Plan (Aug 26 – Sept 1)  
+**Theme:** *Data Foundations + Interview Prep Sprint*
+
+---
+
+## 🎯 Weekly Goals
+- Finish Kaggle **Pandas + Matplotlib** modules  
+- Complete **Data Profile Script**  
+- Pass **Quiz Checkpoint** (mid-week)  
+- Write **3 learning journal entries** (Mon/Wed/Fri, include 1 graph)  
+
+---
+
+## 📅 Daily Breakdown
+
+### **Mon (Aug 26)**
+- [ ] Journal entry #1  
+- [ ] Kaggle: Finish **Pandas basics** (loading data, selecting columns/rows)  
+- [ ] Start `data_profile.py` → setup CSV input + print row/column count  
+
+### **Tue (Aug 27)**
+- [ ] Kaggle: Finish **Pandas intermediate** (groupby, missing values)  
+- [ ] Extend `data_profile.py` → add top 5 rows + column data types  
+
+### **Wed (Aug 28)**
+- [ ] Journal entry #2  
+- [ ] Quiz Checkpoint (20 Qs from me)  
+- [ ] Review quiz answers + note weak spots  
+- [ ] Kaggle: Finish **Pandas final topics** (joins, merges)  
+
+### **Thu (Aug 29)**
+- [ ] Start **Matplotlib module**  
+- [ ] Add missing value summary to `data_profile.py`  
+- [ ] Try 1 simple plot (line or bar chart) from dataset  
+
+### **Fri (Aug 30)**
+- [ ] Journal entry #3  
+- [ ] Kaggle: Continue **Matplotlib**  
+- [ ] Create 1 meaningful visualization (histogram, scatter, bar) from your data  
+
+### **Sat (Aug 31)**
+- [ ] Finish **Matplotlib module**  
+- [ ] Polish `data_profile.py` (test with 2 different CSVs)  
+- [ ] (Stretch) Add JSON export option  
+
+### **Sun (Sept 1)**  
+- [ ] Review week’s progress  
+- [ ] Collect journal entries (include at least 1 graph screenshot)  
+- [ ] ✅ End-of-Week Deliverables check  
+
+---
+
+## ✅ End-of-Week Deliverables (Sept 1)  
+- [ ] Pandas + Matplotlib modules finished  
+- [ ] Data Profile Script working  
+- [ ] Completed Quiz (answers checked)  
+- [ ] 3 journal entries (with 1 graph screenshot)  
+
+---
 ## 📌 Notes
 - ✅ Prefer HackerRank over LeetCode
 - ⚠️ Watch out for `.gitignore` issues on Windows – commit from outside venv
